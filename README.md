@@ -108,13 +108,9 @@ public class SumitAwasthi extends FullStackDeveloper {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumit573&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit573&show_icons=true&theme=tokyonight)
 
 ---
 
