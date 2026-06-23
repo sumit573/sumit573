@@ -108,9 +108,41 @@ public class SumitAwasthi extends FullStackDeveloper {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit573&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+- React.js
+- Spring Boot
+- MySQL
+- JWT Auth
+
+</td>
+
+<td width="50%">
+
+### 💬 Chat Application
+- React
+- WebSocket
+- Spring Boot
+- Real Time Messaging
+
+</td>
+</tr>
+</table>
+
+---
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sumit_awasthi_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
 ---
 
